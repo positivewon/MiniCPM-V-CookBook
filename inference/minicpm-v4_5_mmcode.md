@@ -226,7 +226,8 @@ print(answer)
 
 ## Resulting Code
 
-```txt
+```
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -272,6 +273,7 @@ This code will generate a bar chart with:
 - Data labels above each bar for clarity
 
 You can adjust the colors by changing the `color` list or modify the values as needed to match your specific data more closely. The chart is saved as `chart.png` when run.
+
 ```
 
 ## Rendered Chart
